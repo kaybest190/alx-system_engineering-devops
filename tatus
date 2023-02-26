@@ -1,0 +1,125 @@
+[33mcommit 174244b2c9b2b53446c3f348af2519747ddc8f6b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: ahmed kabir <kaybest190@gmail.com>
+Date:   Thu Sep 1 16:07:58 2022 -0700
+
+    telnet
+
+[33mcommit 128eb4ec83b165769c491ea58adf3c6a811837ae[m
+Author: ahmed kabir <kaybest190@gmail.com>
+Date:   Thu Sep 1 16:05:10 2022 -0700
+
+     If only
+
+[33mcommit 5614ddf6be2118ae6db9309f7d9fcd4028c2010a[m
+Author: ahmed kabir <kaybest190@gmail.com>
+Date:   Thu Sep 1 15:59:45 2022 -0700
+
+    symbolic link
+
+[33mcommit e54d0335406e8de974561173168f2cae4ccbe7c3[m
+Author: ahmed kabir <kaybest190@gmail.com>
+Date:   Thu Sep 1 14:39:17 2022 -0700
+
+    Owner and group
+
+[33mcommit ebcffc98634b0524abd3fedcc150b2a36354b173[m
+Author: ahmed kabir <kaybest190@gmail.com>
+Date:   Thu Sep 1 14:31:39 2022 -0700
+
+    change group
+
+[33mcommit 999fd5bd222f2c48eb5774f7158961f825748c6b[m
+Author: ahmed kabir <kaybest190@gmail.com>
+Date:   Thu Sep 1 14:25:00 2022 -0700
+
+    More directories
+
+[33mcommit 9bc25dcf84c13b912b3bf9197d42ef320c10b75a[m
+Author: ahmed kabir <kaybest190@gmail.com>
+Date:   Thu Sep 1 14:21:25 2022 -0700
+
+    Dirctories permision
+
+[33mcommit 2fc12fa30d7e15a6ebf5f4075eed3b992684b087[m
+Author: ahmed kabir <kaybest190@gmail.com>
+Date:   Thu Sep 1 12:36:47 2022 -0700
+
+    mirror permission
+
+[33mcommit 4f542116d738025dac5b3c5e368b5538ccff7b4a[m
+Author: ahmed kabir <kaybest190@gmail.com>
+Date:   Thu Sep 1 12:26:27 2022 -0700
+
+    a script that sets the mode of the file
+
+[33mcommit 4ebd42b5b5c463ed5b9175ece0bcc6147a3985cb[m
+Author: ahmed kabir <kaybest190@gmail.com>
+Date:   Thu Sep 1 12:19:38 2022 -0700
+
+    a script that sets the permission to different users
+
+[33mcommit 30789539536d321732f634d7806add37c4b235c8[m
+Author: ahmed kabir <kaybest190@gmail.com>
+Date:   Thu Sep 1 12:00:17 2022 -0700
+
+    A script that gives executable permission to all
+
+[33mcommit edb15242931b01a216a734309affc04dc60d978b[m
+Author: ahmed kabir <kaybest190@gmail.com>
+Date:   Thu Sep 1 11:57:12 2022 -0700
+
+    A script that gives multiple permission
+
+[33mcommit a629c25e79e6d2d8b4c4e8ee49d38bf0bcbc6a95[m
+Author: ahmed kabir <kaybest190@gmail.com>
+Date:   Thu Sep 1 11:47:40 2022 -0700
+
+    a script that adds execute permission to the owner of the file
+
+[33mcommit ec8e0e6399ce2f940250661a4288149b1e0205db[m
+Author: ahmed kabir <kaybest190@gmail.com>
+Date:   Thu Sep 1 11:22:57 2022 -0700
+
+    a script that creates an empty file
+
+[33mcommit 20902cfeb6c9e87bc230e9767cc96c024133b4da[m
+Author: ahmed kabir <kaybest190@gmail.com>
+Date:   Thu Sep 1 11:13:39 2022 -0700
+
+     a script that changes the owner of the file
+
+[33mcommit 2536a1f473d299719d736f6b7ebc5e435851ce55[m
+Author: ahmed kabir <kaybest190@gmail.com>
+Date:   Thu Sep 1 10:47:38 2022 -0700
+
+    a script that prints all the groups the current user is part of.
+
+[33mcommit 68e4171776194942313edfb1b8a21e8527368225[m
+Author: ahmed kabir <kaybest190@gmail.com>
+Date:   Thu Sep 1 10:27:25 2022 -0700
+
+     a script that prints the effective username of the current user
+
+[33mcommit 2bdcc3e6fa604333dc9168a1153894407301e463[m
+Author: ahmed kabir <kaybest190@gmail.com>
+Date:   Thu Sep 1 10:13:05 2022 -0700
+
+    a script that switches the current user to the user
+
+[33mcommit a5b847f68c2d3622d20800b35d62ea873955ccb6[m
+Author: ahmed kabir <kaybest190@gmail.com>
+Date:   Thu Sep 1 09:24:40 2022 -0700
+
+    omitted readme file
+
+[33mcommit 335e0050e63bf9b72aa7ba293c23b1df2f03557c[m
+Author: ahmed kabir <kaybest190@gmail.com>
+Date:   Wed Aug 31 19:58:04 2022 -0700
+
+    a magic file
+
+[33mcommit 9325e769c8aa971795cd92cd4289df550f1048dc[m
+Author: ahmed kabir <kaybest190@gmail.com>
+Date:   Wed Aug 31 18:22:02 2022 -0700
+
+    Life is a series of commas, not periods
